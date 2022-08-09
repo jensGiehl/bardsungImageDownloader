@@ -10,4 +10,4 @@ Start the program and pass as the first parameter the output folder. All images 
 
 ## Good to know
 
-All URLs will be printed in the console output, so you can crap them up.
+All URLs will be printed in the console output, so you can grab them up.
