@@ -1,0 +1,10 @@
+https://cardcreator.steamforged.com/icons/bardsungEnemy/BS-Icons-Grey-Blank.png
+https://cardcreator.steamforged.com/icons/bardsungEnemy/BS-Icons-Black-Hobgoblin.png
+https://cardcreator.steamforged.com/icons/bardsungEnemy/BS-Icons-Black-Bugbear.png
+https://cardcreator.steamforged.com/icons/bardsungEnemy/BS-Icons-Black-Duergar.png
+https://cardcreator.steamforged.com/icons/bardsungEnemy/BS-Icons-Black-Mechanica.png
+https://cardcreator.steamforged.com/icons/bardsungEnemy/BS-Icons-Black-Spirit.png
+https://cardcreator.steamforged.com/icons/bardsungEnemy/BS-Icons-Black-WanderingMonster.png
+https://cardcreator.steamforged.com/icons/bardsungEnemy/BS-Icons-Enemy-Undead.png
+https://cardcreator.steamforged.com/icons/bardsungEnemy/BS-Icons-Black-Infected.png
+https://cardcreator.steamforged.com/icons/bardsungEnemy/BS-Icons-Black-Possessed.png
