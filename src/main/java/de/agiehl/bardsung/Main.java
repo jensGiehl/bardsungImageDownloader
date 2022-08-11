@@ -10,6 +10,7 @@ import java.net.URL;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 import java.util.stream.Collectors;
@@ -58,16 +59,19 @@ public class Main {
         allLinks.forEach(file -> Main.downloadFile(file, folder));
     }
 
-    private static void downloadFile(String filename, String folder) {
+    private static void downloadFile(String url, String folder) {
         try {
-            String targetFilename = folder + File.separator + filename.substring(filename.lastIndexOf("/") + 1);
+            String targetFilename = folder + Arrays.stream(url.split("/"))
+                    .skip(3).map(path -> File.separator + path)
+                    .collect(Collectors.joining());
+
             FileUtils.copyURLToFile(
-                    new URL(filename),
+                    new URL(url),
                     new File(targetFilename),
                     2000,
                     2000);
         } catch (IOException e) {
-            System.err.println(filename + " not found!");
+            System.err.println(url + " not found!");
         }
     }
 
