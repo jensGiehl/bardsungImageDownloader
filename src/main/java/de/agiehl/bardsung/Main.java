@@ -41,8 +41,8 @@ public class Main {
                 allLinks.add(HERO_FRAME_BASE_URL + heroName + "/BS-Element-Hero-Profile-" + StringUtils.capitalize(heroName) + "-" + StringUtils.capitalize(stat.name().toLowerCase()) + ".png");
             }
 
-            allLinks.add(CHARACTERISTICS_BASE_URL + heroName + "right/BS-Element-Hero-Profile-" + StringUtils.capitalize(heroName) + "-Modifier-WIS-Right.png");
-            allLinks.add(CHARACTERISTICS_BASE_URL + heroName + "left/BS-Element-Hero-Profile-" + StringUtils.capitalize(heroName) + "-Modifier-CHA-Left.png");
+            allLinks.add(CHARACTERISTICS_BASE_URL + heroName + "/right/BS-Element-Hero-Profile-" + StringUtils.capitalize(heroName) + "-Modifier-WIS-Right.png");
+            allLinks.add(CHARACTERISTICS_BASE_URL + heroName + "/left/BS-Element-Hero-Profile-" + StringUtils.capitalize(heroName) + "-Modifier-CHA-Left.png");
 
             allLinks.add(BACKGROUND_BASE_URL + "BS-Hero-Profile-Card-BG-" + StringUtils.capitalize(heroName) + ".jpeg");
         }
