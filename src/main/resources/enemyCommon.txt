@@ -52,4 +52,5 @@ https://cardcreator.steamforged.com/icons/bardsungEnemy/attackEffects/BS-Icons-G
 https://cardcreator.steamforged.com/icons/bardsungEnemy/attackEffects/BS-Icons-Grey-Stunned.png
 https://cardcreator.steamforged.com/icons/bardsungEnemy/attackEffects/BS-Icons-Grey-Sundered.png
 https://cardcreator.steamforged.com/icons/bardsungEnemy/attackEffects/BS-Icons-Grey-Weaken.png
+https://cardcreator.steamforged.com/icons/bardsungEnemy/attackEffects/BS-Icons-Grey-Pinned.png
 https://cardcreator.steamforged.com/backgrounds/bardsungEnemy/BS-Cards-BG-EnemyBigger-Back-DN.jpeg
